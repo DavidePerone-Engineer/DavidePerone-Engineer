@@ -19,7 +19,7 @@
 - **Security**: Red Hat 3scale SSO, USK, AppID
 - **Databases**: MongoDB
 - **Infrastructure as Code**: GitOps
-- **Automation**: Ansible, AI generation scripts
+- **Automation**: Ansible, AI generated scripts
 
 ## 🏗️ Current Operational Tasks ##
 - Setting up microservices on OpenShift 4.14
